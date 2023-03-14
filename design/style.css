@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Press Start 2P";
+    src: url("Press_Start_2P/PressStart2P-Regular.ttf") format("truetype");
+  }
+
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&family=Noto+Sans+Bamum&display=swap');
+
+
+.investment_rec {
+    font-family: 'Press Start 2P', sans-serif; 
+    font-size: 18px;
+    font-weight: 500;
+    color: #ff00ff;
+}
+
+.head {
+    font-family: 'IMB Plex Sans', sans-serif; 
+    font-size: 20px;
+    font-weight: 100;
+    color: #262730
+}
